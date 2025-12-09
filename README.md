@@ -2,11 +2,11 @@
 
 ### *a game by Liwanag Studios*
 
-Team Members
+### **Team Members**
 
-Capuyan, Alquien E.
-Carillo, Hazel Ann M.
-Saura, Jhon Lexter L.
+* Capuyan, Alquien E.
+* Carillo, Hazel Ann M.
+* Saura, Jhon Lexter L.
 
 ---
 
