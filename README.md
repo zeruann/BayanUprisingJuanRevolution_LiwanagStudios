@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="/Card_Resources/BayanUprisingLogo-1.png" alt="Game Banner (Add your image here)" width="600" />
+  <img src="/Card_Resources/BayanUprisingLogo-1.png" alt="Game Banner (Add your image here)" width="300" />
 </p>
 
 ## 📘 **Overview**
