@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="" alt="Game Banner (Add your image here)" width="600" />
+  <img src="BayanUprisingLogo-1.png" alt="Game Banner (Add your image here)" width="600" />
 </p>
 
 ## 🎮 **Overview**
